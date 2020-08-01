@@ -1,4 +1,3 @@
-<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on demos
@@ -6,4 +5,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on educational projects
 - 💬 Ask me about music
 - ⚡ Fun fact: People keep asking me about Dora, The Explorer
--->
