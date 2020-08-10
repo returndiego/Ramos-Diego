@@ -6,10 +6,10 @@
 
 Programming bucket list
 
-[x] Javascript ES6
+- [x] Javascript ES6
 
-[x] CI/CD
+- [x] CI/CD
 
-[x] SQL/NoSQL
+- [x] SQL/NoSQL
 
-[] React
+- [] React
