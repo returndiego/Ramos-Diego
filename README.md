@@ -12,4 +12,4 @@ Programming bucket list
 
 - [x] SQL/NoSQL
 
-- [] React
+- [ ] React
