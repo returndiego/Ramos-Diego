@@ -1,10 +1,1 @@
-Programming to-do list
-
-- [x] Javascript ES6
-- [x] CI/CD
-- [x] SQL/NoSQL
-- [x] React
-- [ ] Next.js
-- [ ] swr (Vercel)
-- [ ] TypeScript
-- [ ] PWA
+It has been a fun journey to go from programming with ridiculously low levels of abstraction in VHDL to the sweet TypeScript.
