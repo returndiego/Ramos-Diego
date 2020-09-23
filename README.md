@@ -8,7 +8,4 @@ My Stack
 | [MongoDB](https://www.mongodb.com/cloud/atlas) (Database)  | [Chakra-UI](https://next.chakra-ui.com/) (Component Library)  |
 | [TypeScript](https://www.typescriptlang.org/) (Programming Language)  |  [SWR](https://swr.vercel.app/) (Data fetching) |
 | [Yarn](https://yarnpkg.com/) (Package Manager)  | [react-icons](https://react-icons.github.io/) (Icons)  |
-| [Vercel](https://vercel.com/) (Deployment)  |   |
-
----
-It has been a fun journey to go from programming with ridiculously low levels of abstraction in VHDL to the sweet TypeScript.
+| [Vercel](https://vercel.com/) (Deployment)  | [Express](https://expressjs.com/) (Web framework)  |
