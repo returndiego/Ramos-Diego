@@ -1,4 +1,4 @@
-Currently practicing the S.O.L.I.D. pricinples with TypeScript and Next.js
+Currently practicing the S.O.L.I.D. principles with TypeScript and Next.js
 
 ---
 My Stack
