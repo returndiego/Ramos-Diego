@@ -1,4 +1,4 @@
-Currently practicing composition and the open-closed principle with TypeScript and Next.js
+Currently practicing composition, single responsibility and open-closed principles with TypeScript and Next.js
 
 ---
 My Stack
