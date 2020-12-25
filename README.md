@@ -5,4 +5,4 @@ My Stack
 |------------------------------------------------|------------------------------------------|-----------------------------------------------|
 | [Next.js](https://nextjs.org/)                 | [Next-Auth](https://next-auth.js.org/)   | [TypeScript](https://www.typescriptlang.org/) |
 | [MongoDB](https://www.mongodb.com/cloud/atlas) | [Tailwind CSS](https://tailwindcss.com/) | [Yarn](https://yarnpkg.com/)                  |
-| [react-icons](https://react-icons.github.io/)  | [Vercel](https://vercel.com/)            | [Express](https://expressjs.com/)             |
+| [SWR](https://swr.vercel.app/)                 | [Vercel](https://vercel.com/)            | [Express](https://expressjs.com/)             |
