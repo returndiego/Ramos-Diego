@@ -4,10 +4,9 @@ Currently practicing composition, single responsibility and open-closed principl
 
 My Stack
 
-|                                                           |                                                          |                                                                      |
-| --------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------- | --- |
-| [Next.js](https://nextjs.org/) (React.js Framework / API) | [Next-Auth](https://next-auth.js.org/) (Authentication)  | [TypeScript](https://www.typescriptlang.org/) (Programming Language) |
-| [MongoDB](https://www.mongodb.com/cloud/atlas) (Database) | [Tailwind CSS](https://tailwindcss.com/) (CSS framework) | [Yarn](https://yarnpkg.com/) (Package Manager)                       |
-| [react-icons](https://react-icons.github.io/) (Icons)     | [Vercel](https://vercel.com/) (Deployment)               | [Express](https://expressjs.com/) (Web framework)                    |
-| [SWR](https://swr.vercel.app/) (Data fetching)            |                                                          |                                                                      |     |
-
+|                                                |                                          |                                               |
+|------------------------------------------------|------------------------------------------|-----------------------------------------------|
+| [Next.js](https://nextjs.org/)                 | [Next-Auth](https://next-auth.js.org/)   | [TypeScript](https://www.typescriptlang.org/) |
+| [MongoDB](https://www.mongodb.com/cloud/atlas) | [Tailwind CSS](https://tailwindcss.com/) | [Yarn](https://yarnpkg.com/)                  |
+| [react-icons](https://react-icons.github.io/)  | [Vercel](https://vercel.com/)            | [Express](https://expressjs.com/)             |
+| [SWR](https://swr.vercel.app/)                 |                                          |                                               |
